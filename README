@@ -1,0 +1,28 @@
+This project is to support the study group exercises for the DC area JBoss User Group (dc-jbug). 
+Our study group meets weekly on Thursday evenings to prepare for Red Hat's JBoss Certified Developer (JBCD) in 
+Persistence certification.
+
+The JBCD - Persistence exam tests whether candidates are ready for the real-world responsibilities of creating 
+and maintaining Java applications that use the Java Persistence API (JPA) with Hibernate.
+
+The exam objectives and recommended study material is available at: 
+   https://www.redhat.com/f/pdf/JBCD-Persistence-Exam-Objectives.pdf
+
+
+Details about all our meetings are available at http://www.meetup.com/dc-jbug.
+
+Our community portal is at http://community.jboss.org/groups/dc-jbug
+
+
+Resources
+----------
+JBoss and Maven Repositories   - http://community.jboss.org/wiki/MavenGettingStarted-Users
+JBoss Tools Project - http://www.jboss.org/tools
+
+
+JBCD-Persistence Exam Objectives - https://www.redhat.com/f/pdf/JBCD-Persistence-Exam-Objectives.pdf
+
+Hibernate Documentation - 
+   http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Web_Server/1.0/html/Hibernate_Core_Reference_Guide/index.html
+   http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Application_Platform/4.3/html/Hibernate_Reference_Guide/index.html
+
