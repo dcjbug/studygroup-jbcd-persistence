@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="roseindia.tutorial.hibernate.Contact" table="CONTACT">
+	   <id name="id" type="long" column="ID" >
+	   <generator class="assigned"/>
+	  </id>
+
+	  <property name="firstName">
+		 <column name="FIRSTNAME" />
+	  </property>
+	  <property name="lastName">
+		<column name="LASTNAME"/>
+	  </property>
+	  <property name="email">
+		<column name="EMAIL"/>
+	  </property>
+   </class>
+
+   <class name="roseindia.tutorial.hibernate.Book" table="book">
+		<id name="lngBookId" type="long" column="id" >
+			<generator class="increment"/>
+		</id>
+
+		<property name="strBookName">
+			<column name="bookname" />
+		</property>
+	</class>
+ 
+   <class name="roseindia.tutorial.hibernate.Insurance" table="insurance">
+		<id name="lngInsuranceId" type="long" column="ID" >
+			<generator class="increment"/>
+		</id>
+
+		<property name="insuranceName">
+			<column name="insurance_name" />
+		</property>
+		<property name="investementAmount">
+			<column name="invested_amount" />
+		</property>
+		<property name="investementDate">
+			<column name="investement_date" />
+		</property>
+	</class>
+
+
+
+</hibernate-mapping>
