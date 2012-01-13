@@ -23,6 +23,42 @@ JBoss Tools Project - http://www.jboss.org/tools
 JBCD-Persistence Exam Objectives - https://www.redhat.com/f/pdf/JBCD-Persistence-Exam-Objectives.pdf
 
 Hibernate Documentation - 
+----------------------
    http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Web_Server/1.0/html/Hibernate_Core_Reference_Guide/index.html
    http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Application_Platform/4.3/html/Hibernate_Reference_Guide/index.html
 
+Additional Resources
+--------------------
+JBoss and Maven Repositories   - http://community.jboss.org/wiki/MavenGettingStarted-Users
+JBoss Tools Project - http://www.jboss.org/tools
+JBCD-Persistence Exam Objectives - https://www.redhat.com/f/pdf/JBCD-Persistence-Exam-Objectives.pdf
+Hibernate Documentation -
+http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Web_Server/1.0/html/Hibernate_Core_Reference_Guide/index.html
+http://docs.redhat.com/docs/en-US/JBoss_Enterprise_Application_Platform/4.3/html/Hibernate_Reference_Guide/index.html
+
+You Tube Hibernate Training Videos -
+--------------------------------
+http://patrickwashington.blogspot.com/
+http://www.youtube.com/user/patrickwashingtondc
+http://www.youtube.com/user/koushks
+ 
+ 
+Learning Environment
+--------------------
+We have created a VirtualBox Appliance to use for our training.  The stock install is as follows:
+ 
+Scientific Linux version 6.1  <-- no Gnome 3 for us,  ;-) 
+git
+subversion
+cvs
+mercurial
+openjdk-devel
+bzr
+Eclipse Helios 3.6
+JBoss Tools
+M2E
+eGit
+SubClipse
+Maven
+Ant
+JBoss AS 5.1.0
